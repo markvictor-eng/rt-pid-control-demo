@@ -1,0 +1,11 @@
+# Ignore build artifacts
+build/
+*.o
+*.out
+
+*.csv
+
+__pycache__/
+*.pyc
+
+.DS_Store
